@@ -1,0 +1,13 @@
+
+{
+  "name": "ephemeral-lab-ccr",
+  "version": "1.0.0",
+  "description": "Aplicación de prueba para demostrar ambientes efímeros",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
